@@ -1,7 +1,7 @@
 const countdown = document.querySelector('.countdown');
 
 //set launching gate
-const launchDate = new Date('Aug 5, 2020 08:00:00').getTime();
+const launchDate = new Date('Aug 5, 2022 08:00:00').getTime();
 
 //update every second
 //USED THE ES6 ARROW FUNCTION
